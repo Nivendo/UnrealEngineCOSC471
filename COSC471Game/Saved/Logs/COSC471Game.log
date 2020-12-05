@@ -1475,3 +1475,84 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.05-00.55.41:996][453]LogSlate: Window 'FirstPersonProjectile' being destroyed
 [2020.12.05-00.55.42:018][453]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
 [2020.12.05-00.55.42:018][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-00.56.27:535][953]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.05-00.56.28:298][993]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.12.05-00.57.53:493][153]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.05-00.57.53:493][153]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.05-00.57.53:493][153]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.05-00.58.28:527][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.05-00.58.28:538][ 91]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.05-00.58.28:541][ 91]LogPlayLevel: [PlayLevel] Compiling FirstPersonProjectile before play...
+[2020.12.05-00.58.28:582][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.12.05-00.58.28:593][ 91]LogPlayLevel: PlayLevel: Blueprint regeneration took 54 ms (1 blueprints)
+[2020.12.05-00.58.28:593][ 91]PIE: New page: PIE session: FirstPersonExampleMap (Dec 4, 2020, 2:58:28 PM)
+[2020.12.05-00.58.28:628][ 91]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.05-00.58.28:663][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034766s)
+[2020.12.05-00.58.28:665][ 91]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.05-00.58.28:665][ 91]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E1FD462400), frame # 127091
+[2020.12.05-00.58.28:665][ 91]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E1F6655A80), frame # 127091
+[2020.12.05-00.58.28:666][ 91]LogPlayLevel: PIE: World Init took: (0.002195s)
+[2020.12.05-00.58.28:666][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.037263s)
+[2020.12.05-00.58.28:686][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.12.05-00.58.28:688][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.05-00.58.28:688][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.05-00.58.28:688][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.05-00.58.28:688][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.05-00.58.28:688][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.05-00.58.28:688][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.05-00.58.28:688][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.05-00.58.28:688][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.05-00.58.28:689][ 91]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.05-00.58.28:689][ 91]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.05-00.58.28:693][ 91]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.05-00.58.28:693][ 91]LogAudioMixer: Display: 1: FrontRight
+[2020.12.05-00.58.28:711][ 91]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2020.12.05-00.58.28:711][ 91]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.05-00.58.28:711][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.05-00.58.28:711][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.05-00.58.28:712][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.05-00.58.28:729][ 91]LogInit: FAudioDevice initialized.
+[2020.12.05-00.58.28:737][ 91]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.12.05-00.58.28:740][ 91]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.12.04-19.58.28
+[2020.12.05-00.58.28:741][ 91]LogWorld: Bringing up level for play took: 0.002862
+[2020.12.05-00.58.28:741][ 91]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.12.05-00.58.28:743][ 91]PIE: Server logged in
+[2020.12.05-00.58.28:745][ 91]PIE: Play in editor total start time 0.207 seconds.
+[2020.12.05-00.59.58:378][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-00.59.58:378][439]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.05-00.59.58:379][439]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-00.59.58:380][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-00.59.58:387][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.05-00.59.58:389][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-00.59.58:404][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-00.59.58:422][439]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E1FD462400), frame # 129439
+[2020.12.05-00.59.58:423][439]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E1F6655A80), frame # 129439
+[2020.12.05-00.59.58:424][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.12.05-00.59.58:479][441]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.12.05-01.00.04:887][612]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.12.05-01.00.05:618][687]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.12.05-01.00.06:328][764]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.12.05-01.06.30:317][ 70]LogSlate: Window 'Source Control Login' being destroyed
+[2020.12.05-01.07.52:271][860]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.12.05-01.07.52:425][860]LogSavePackage: Moving 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471/COSC471Game/Saved/FirstPersonExampleMap_Auto4A0972A6747E59244F2CBB9AE5CD5D429.tmp' to 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471/COSC471Game/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2020.12.05-01.07.52:436][860]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.210
+[2020.12.05-01.07.52:436][860]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.210
+[2020.12.05-01.10.58:367][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Content: 'E:/Epic Games/UE_4.25/Engine/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:367][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:367][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:367][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:367][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:367][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:367][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:367][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:367][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:367][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:367][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:367][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:367][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:367][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:367][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:368][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:368][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:368][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
+[2020.12.05-01.10.58:463][815]EditorErrors: Warning: No assets to check in!
