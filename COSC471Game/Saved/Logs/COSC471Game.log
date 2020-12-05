@@ -714,3 +714,106 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.05-01.51.10:964][569]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.05-01.51.10:964][569]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.12.05-01.51.10:964][569]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.12.05-01.53.16:410][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.05-01.53.16:493][957]LogSavePackage: Moving 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471/COSC471Game/Saved/FirstPersonExampleMap73BC34D24865372425CDDFB040160162.tmp' to 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471/COSC471Game/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.12.05-01.53.16:725][957]LogSavePackage: Moving 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471/COSC471Game/Saved/FirstPersonExampleMap_BuiltData79D4707940CC15A6710BA983CDFFC0AE.tmp' to 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471/COSC471Game/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.12.05-01.53.16:732][957]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.05-01.53.16:732][957]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.12.05-01.53.16:732][957]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.12.05-01.53.18:436][145]MapCheck: New page: Map Check
+[2020.12.05-01.53.18:456][145]Cmd: MAP REBUILD ALLVISIBLE
+[2020.12.05-01.53.18:456][145]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.12.05-01.53.18:462][145]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2020.12.05-01.53.18:481][145]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.12.05-01.53.18:481][145]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.12.05-01.53.18:481][145]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.12.05-01.53.18:491][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.12.05-01.53.18:496][145]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.05-01.53.18:500][145]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.05-01.53.18:502][145]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.05-01.53.18:503][145]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.05-01.53.18:504][145]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.05-01.53.18:506][145]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.05-01.53.20:189][145]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.12.05-01.53.20:189][145]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.12.05-01.53.20:189][145]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.12.05-01.53.20:189][145]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.12.05-01.53.20:189][145]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.12.05-01.53.20:189][145]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.12.05-01.53.20:189][145]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.12.05-01.53.20:189][145]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.12.05-01.53.20:189][145]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.12.05-01.53.20:189][145]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.12.05-01.53.20:189][145]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.12.05-01.53.20:189][145]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.12.05-01.53.20:189][145]TextureStreamingBuild: Display: Compiling optional shaders took 1.697 seconds.
+[2020.12.05-01.53.20:195][145]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2020.12.05-01.53.20:196][145]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2020.12.05-01.53.20:202][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2020.12.05-01.53.20:221][145]LightingResults: New page: Lighting Build - Dec 4, 2020, 3:53:20 PM
+[2020.12.05-01.53.20:265][145]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.05-01.53.20:311][145]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.05-01.53.20:321][145]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.05-01.53.20:828][145]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.05-01.53.20:829][145]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19132
+[2020.12.05-01.53.27:334][145]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.05-01.53.27:334][145]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.05-01.53.27:334][145]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.05-01.53.27:334][145]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.05-01.53.27:334][145]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.05-01.53.27:479][145]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.12.05-01.53.27:479][145]MapCheck: New page: FirstPersonExampleMap - Dec 4, 2020, 3:53:27 PM
+[2020.12.05-01.53.27:479][145]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.12.05-01.53.27:479][145]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.355ms to complete.
+[2020.12.05-01.53.27:482][145]LogEditorBuildUtils: Build time 0:09
+[2020.12.05-01.53.27:634][145]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.05-01.53.28:722][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.12.05-01.53.32:762][351]LogSlate: Window 'Message Log' being destroyed
+[2020.12.05-01.53.32:769][351]LogSlate: Window 'Message Log' being destroyed
+[2020.12.05-01.53.36:830][719]Job is a success!
+[2020.12.05-01.53.36:973][719]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2020.12.05-01.53.36:973][719]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.05-01.53.36:973][719]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2020.12.05-01.53.36:973][719]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.05-01.53.36:973][719]LogVolumetricLightmapImport:          0: 2.4% covering 100.0% of volume
+[2020.12.05-01.53.36:973][719]LogVolumetricLightmapImport:          1: 9.8% covering 6.3% of volume
+[2020.12.05-01.53.36:973][719]LogVolumetricLightmapImport:          2: 87.8% covering 0.9% of volume
+[2020.12.05-01.53.36:973][719]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.05-01.53.36:973][719]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 41 bricks 	 100.0% (Persistent Level)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 512X256)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 512X256)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 512X512)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 512X512)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 128X64)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2020.12.05-01.53.37:465][719]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 64X32)
+[2020.12.05-01.53.37:551][719]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 32X32)
+[2020.12.05-01.53.37:552][719]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 64X64)
+[2020.12.05-01.53.37:552][719]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X64)
+[2020.12.05-01.53.37:552][719]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X64)
+[2020.12.05-01.53.37:552][719]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X64)
+[2020.12.05-01.53.37:552][719]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X128)
+[2020.12.05-01.53.37:552][719]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 66 meshes in 6 LightmapResourceClusters (11.0 Meshes per cluster).
+[2020.12.05-01.53.37:561][719]Lightmass on DESKTOP-BQ6S3GH: 8.32 sec total, 627 ms importing, 221 ms setup, 2.68 sec photons, 4.76 sec processing, 0 ms extra exporting [66/66 mappings]. Threads: 33.3 sec total, 21.1 sec processing.
+[2020.12.05-01.53.37:569][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.12.05-01.53.37:587][719]LogStaticLightingSystem: Illumination: 17.3 sec (484 ms encoding lightmaps, 28 ms encoding shadowmaps)
+[2020.12.05-01.53.37:587][719]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 12 textures
+[2020.12.05-01.53.37:587][719]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.12.05-01.53.38:344][719]DumpUnbuiltLightIteractions
+[2020.12.05-01.53.38:344][719]Lights with unbuilt interactions: 0
+[2020.12.05-01.53.38:344][719]
+[2020.12.05-01.53.38:344][719]Primitives with unbuilt interactions: 0
+[2020.12.05-01.53.38:459][720]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.05-01.53.38:459][720]MapCheck: New page: FirstPersonExampleMap - Dec 4, 2020, 3:53:38 PM
+[2020.12.05-01.53.38:460][720]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.299ms to complete.
