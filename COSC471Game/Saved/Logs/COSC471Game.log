@@ -1414,3 +1414,64 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.05-00.50.31:298][146]SourceControl: Commited [main 8f7ce47] Changed projectile.
 [2020.12.05-00.50.31:336][147]AssetCheck: New page: Asset Save: FirstPersonProjectile
 [2020.12.05-00.50.31:336][147]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2020.12.05-00.55.03:798][199]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.12.05-00.55.04:250][250]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.12.05-00.55.04:812][313]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.12.05-00.55.04:822][313]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.12.05-00.55.06:782][528]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.05-00.55.06:796][528]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.05-00.55.06:798][528]LogPlayLevel: [PlayLevel] Compiling FirstPersonProjectile before play...
+[2020.12.05-00.55.06:829][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.12.05-00.55.06:835][528]LogPlayLevel: PlayLevel: Blueprint regeneration took 38 ms (1 blueprints)
+[2020.12.05-00.55.06:835][528]PIE: New page: PIE session: FirstPersonExampleMap (Dec 4, 2020, 2:55:06 PM)
+[2020.12.05-00.55.06:858][528]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.05-00.55.06:882][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024573s)
+[2020.12.05-00.55.06:884][528]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.05-00.55.06:884][528]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001E255C01600), frame # 120528
+[2020.12.05-00.55.06:884][528]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001E25368E980), frame # 120528
+[2020.12.05-00.55.06:884][528]LogPlayLevel: PIE: World Init took: (0.002076s)
+[2020.12.05-00.55.06:884][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.026947s)
+[2020.12.05-00.55.06:900][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.12.05-00.55.06:902][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.05-00.55.06:902][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.05-00.55.06:902][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.05-00.55.06:902][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.05-00.55.06:902][528]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.05-00.55.06:902][528]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.05-00.55.06:902][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.05-00.55.06:902][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.05-00.55.06:903][528]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.05-00.55.06:903][528]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.05-00.55.06:908][528]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.05-00.55.06:908][528]LogAudioMixer: Display: 1: FrontRight
+[2020.12.05-00.55.06:926][528]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2020.12.05-00.55.06:926][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.05-00.55.06:927][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.05-00.55.06:927][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.05-00.55.06:927][528]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.05-00.55.06:942][528]LogInit: FAudioDevice initialized.
+[2020.12.05-00.55.06:950][528]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.12.05-00.55.06:953][528]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.12.04-19.55.06
+[2020.12.05-00.55.06:954][528]LogWorld: Bringing up level for play took: 0.003283
+[2020.12.05-00.55.06:954][528]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.12.05-00.55.06:957][528]PIE: Server logged in
+[2020.12.05-00.55.06:959][528]PIE: Play in editor total start time 0.163 seconds.
+[2020.12.05-00.55.15:089][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-00.55.15:089][481]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.05-00.55.15:089][481]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-00.55.15:089][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-00.55.15:097][481]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.05-00.55.15:099][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.05-00.55.15:115][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.05-00.55.15:133][481]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E25368E980), frame # 121481
+[2020.12.05-00.55.15:133][481]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E255C01600), frame # 121481
+[2020.12.05-00.55.15:134][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.12.05-00.55.15:186][483]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.12.05-00.55.16:678][627]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2020.12.05-00.55.40:379][323]LogSavePackage: Moving 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471/COSC471Game/Saved/FirstPersonProjectile2EDA321646A9A70A342BFBA785E8D613.tmp' to 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471/COSC471Game/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2020.12.05-00.55.40:426][323]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2020.12.05-00.55.40:426][323]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2020.12.05-00.55.41:992][453]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2020.12.05-00.55.41:996][453]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2020.12.05-00.55.42:018][453]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.12.05-00.55.42:018][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
