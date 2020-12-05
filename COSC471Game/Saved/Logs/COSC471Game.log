@@ -1556,3 +1556,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.05-01.10.58:368][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
 [2020.12.05-01.10.58:368][815]SourceControl: fatal: E:/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Niven/Documents/GitHub/UnrealEngineCOSC471'
 [2020.12.05-01.10.58:463][815]EditorErrors: Warning: No assets to check in!
+[2020.12.05-01.14.05:492][640]LogSlate: Window 'Source Control Login' being destroyed
+[2020.12.05-01.17.52:430][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.12.05-01.17.52:441][ 77]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.031
+[2020.12.05-01.19.14:727][907]LogSlate: Window 'Source Control Login' being destroyed
+[2020.12.05-01.27.52:925][288]LogUObjectHash: Compacting FUObjectHashTables data took   9.48ms
+[2020.12.05-01.27.52:938][288]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.049
